@@ -8,7 +8,6 @@ int main(){
   int value=0;
   int i;
   char name[10];
-
     
   printf("What is your name?\n");
   printf(">");
