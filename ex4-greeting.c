@@ -15,7 +15,6 @@ int main(){
   scanf("%s",name);
   printf("Hello, %s!\n",name);
     
-
  
   printf("Rolling the dice...\n");
 
