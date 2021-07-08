@@ -2,7 +2,6 @@
 #include<stdlib.h>
 #include <time.h>
 
-
 int Dice(int);
 int main(){
   srand((unsigned int)time(NULL));
